@@ -1,7 +1,7 @@
 ## My GIS Portfolio:
 This website showcases the personal GIS projects I've worked on, as well as an official copy of my resume. My projects themselves are mostly focused on visualizing some of the correlations between pressing factors involved with issues like climate change, infrastructure and transportation, or rising housing prices, specifically in the context of how they impact Floridians (those living in the state of Florida). 
 
-Please visit my site through the following link:[GitHub](https://fulldivein.github.io/FullDiveIn/), and leave me your thoughts or feedback.
+Please visit my site through the following link:(https://fulldivein.github.io/FullDiveIn/), and leave me your thoughts or feedback.
 <!--
 **FullDiveIn/FullDiveIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
